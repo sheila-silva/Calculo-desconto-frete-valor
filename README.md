@@ -39,7 +39,6 @@ This evaluation project is a small system with components responsible for calcul
 - Component annotation with `@Service`
 - Business logic execution via `CommandLineRunner`
 
----
 
 🛠️ Languages and Technologies:
 
