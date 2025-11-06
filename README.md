@@ -1,6 +1,6 @@
-# 📦 Projeto Avaliativo - Cálculo de Pedido com Desconto e Frete
+# 📦 Projeto - Cálculo de Pedido com Desconto e Frete
 
-Este projeto avaliativo consiste em um pequeno sistema com componentes responsáveis por calcular o **valor total de um pedido**, considerando:
+Este projeto consiste em um pequeno sistema com componentes responsáveis por calcular o **valor total de um pedido**, considerando:
 
 - O valor básico do produto
 - A aplicação de **descontos** (0%, 10% ou 20%)
@@ -24,9 +24,9 @@ Este projeto avaliativo consiste em um pequeno sistema com componentes responsá
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 📦 Evaluation Project - Order Total Calculation with Discount and Shipping
+# 📦 Project - Order Total Calculation with Discount and Shipping
 
-This evaluation project is a small system with components responsible for calculating the **total value of an order**, considering:
+This project is a small system with components responsible for calculating the **total value of an order**, considering:
 
 - The basic value of the product
 - The application of **discounts** (0%, 10%, or 20%)
