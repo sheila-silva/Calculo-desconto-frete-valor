@@ -22,7 +22,8 @@ Este projeto consiste em um pequeno sistema com componentes responsáveis por ca
 
 🚀 A execução ocorre via terminal (linha de comando), permitindo a entrada de múltiplos pedidos em sequência.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+******
+******
 
 # 📦 Project - Order Total Calculation with Discount and Shipping
 
